@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usama Ali</h1>
 <h3 align="center">Software Engineer Mobile (Android & KMM )</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamasiddiqui04&label=Profile%20views&color=0e75b6&style=flat" alt="usamasiddiqui04" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamasiddiqui04" alt="usamasiddiqui04" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/usamaali04" target="blank"><img src="https://img.shields.io/twitter/follow/usamaali04?logo=twitter&style=for-the-badge" alt="usamaali04" /></a> </p>
 
 - 🔭 I’m currently working on [Byte Food Delivery Porject](https://play.google.com/store/apps/details?id=com.byte.customer&hl=en&gl=US)
